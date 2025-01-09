@@ -1,8 +1,9 @@
 print("start")
 print("Hello World")
-def func(a):
+def mul(a):
     return a*10
-print(func(20))
+print(mul(30))
+print("hello")
 
 # hello this is comment
 print("="*10)
