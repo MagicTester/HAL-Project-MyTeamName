@@ -1,10 +1,8 @@
-print("start")
-print("Hello World")
-def func(a):
-    return a*10
-print(func(20))
-
-# hello this is comment
+print("hello team")
+def divide(a):
+    return a//10
+print(divide(20))
 print("="*10)
+print("look dhanush")
 # otherBranch
-print("New World comming from otherBranch")
+print("hello ra devraj")
